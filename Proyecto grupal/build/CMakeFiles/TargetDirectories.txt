@@ -1,0 +1,3 @@
+C:/Users/alber/Desktop/Ejercicios Uni/Estructuras/Proyecto grupal/build/CMakeFiles/Proyecto_Grupal.dir
+C:/Users/alber/Desktop/Ejercicios Uni/Estructuras/Proyecto grupal/build/CMakeFiles/edit_cache.dir
+C:/Users/alber/Desktop/Ejercicios Uni/Estructuras/Proyecto grupal/build/CMakeFiles/rebuild_cache.dir

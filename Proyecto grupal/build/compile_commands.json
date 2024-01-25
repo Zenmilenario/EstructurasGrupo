@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/alber/Desktop/Ejercicios Uni/Estructuras/Proyecto grupal/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -std=c++23 -Wall -Wextra -pedantic -Werror -o CMakeFiles\\Proyecto_Grupal.dir\\main.cpp.obj -c \"C:\\Users\\alber\\Desktop\\Ejercicios Uni\\Estructuras\\Proyecto grupal\\main.cpp\"",
+  "file": "C:\\Users\\alber\\Desktop\\Ejercicios Uni\\Estructuras\\Proyecto grupal\\main.cpp",
+  "output": "CMakeFiles\\Proyecto_Grupal.dir\\main.cpp.obj"
+}
+]
